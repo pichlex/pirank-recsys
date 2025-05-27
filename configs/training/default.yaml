@@ -1,0 +1,7 @@
+max_epochs: 100
+patience: 10
+monitor: val_ndcg
+mode: max
+accelerator: auto
+devices: auto
+precision: 16

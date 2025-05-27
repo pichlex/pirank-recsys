@@ -1,0 +1,10 @@
+defaults:
+  - model: pirank
+  - data: istella
+  - training: default
+  - inference: default
+  - _self_
+
+experiment_name: pirank_recsys
+mlflow_tracking_uri: http://127.0.0.1:8080
+random_seed: 42

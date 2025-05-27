@@ -1,0 +1,8 @@
+dataset_name: istella
+data_path: data/istella
+train_split: 0.8
+val_split: 0.1
+test_split: 0.1
+cross_validation_folds: 5
+batch_size: 32
+num_workers: 4
