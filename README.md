@@ -307,19 +307,3 @@ MIT License
 
 Александр Пичугин
 
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/62918468/dd6bb6cb-a39f-467b-b764-656f4fe20d52/tasks_for_students_mlops_25s.pdf
-[2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/62918468/33d718d2-08a9-4823-a6c3-7fd2f004a809/project-descripton-template-mlops-pichugin.pdf
-[3] https://web-ainf.aau.at/pub/jannach/files/Other_best_practices-2024.pdf
-[4] https://medium.datadriveninvestor.com/how-to-write-a-good-readme-for-your-data-science-project-on-github-ebb023d4a50e
-[5] http://www.scitepress.org/Papers/2025/132725/132725.pdf
-[6] https://mlops-coding-course.fmind.dev/6.%20Sharing/6.2.%20Readme.html
-[7] https://app.readytensor.ai/publications/markdown-for-machine-learning-projects-a-comprehensive-guide-LX9cbIx7mQs9
-[8] https://github.com/othneildrew/Best-README-Template
-[9] https://github.com/rn5l/rsc18/blob/master/README.MD
-[10] https://gitlab.com/ton1czech/project-readme-template
-[11] https://git-kik.hs-ansbach.de/Ossanlou.Bijan/my-sample-project/-/blob/example-tutorial-branch/README.md
-[12] https://www.youtube.com/watch?v=jeOfS90Flf8
-
----
-Answer from Perplexity: pplx.ai/share
